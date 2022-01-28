@@ -1,8 +1,9 @@
 # PyShark
 Network protocol analyzer application that captures packets from a network connection.
 
-Program Installation:
-==============
+Program Installation Process:
+=============================
+
 $apt-get update
 $apt-get install tshark
 $apt-get install python3.10
